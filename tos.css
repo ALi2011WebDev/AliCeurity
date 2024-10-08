@@ -1,0 +1,11 @@
+#tos{
+    font-size: 200px;
+    color: aquamarine;
+    align-content: center;
+    cursor: pointer;
+    background-color: bisque;
+    border-radius: 80px;
+}
+body{
+    background-color: coral;
+}
